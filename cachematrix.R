@@ -1,7 +1,7 @@
 
-## Code below is for R Programming Course Programming Assignment 2: Lexical Scoping
+## The code below is for R Programming Course Programming Assignment 2: Lexical Scoping
 ## Two functions are included:  makeCasheMatrix and cacheSolve
-## 
+## Due Date: 7/27/2014
 
 
 
@@ -44,3 +44,6 @@ cacheSolve <- function(x, ...) {
   
   
 }
+
+
+  
